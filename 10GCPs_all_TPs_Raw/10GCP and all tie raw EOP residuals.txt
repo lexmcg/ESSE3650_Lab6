@@ -1,0 +1,18 @@
+Exterior Orientation Residual Report
+
+Residual Units: Degrees
+
+Residual Summary for 3 Images
+
+
+Positions: X RMS: 21.302   Y RMS: 19.050    Z RMS: 14.703    
+Orientations: Omega RMS: 0.817   Phi RMS: 0.763   Kappa RMS: 0.058   
+
+RMS (x,y,z) for worst 5 of images in list
+
+
+Image ID   Res   Res X   Res Y   Res Z   Res Omega   Res Phi   Res Kappa
+
+1037-01   38.201   -28.319   -18.113   -18.146   0.811   -1.025   0.072   
+1038-01   32.179   -18.637   -22.070   -14.180   0.969   -0.667   -0.056   
+1039-01   24.570   -14.561   -16.538   -10.871   0.636   -0.498   -0.042   
